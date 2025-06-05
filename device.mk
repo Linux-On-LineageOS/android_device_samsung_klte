@@ -32,3 +32,4 @@ $(call inherit-product, device/samsung/klte-common/nfc/pn547/product.mk)
 
 # common klte
 $(call inherit-product, device/samsung/klte-common/klte.mk)
+
